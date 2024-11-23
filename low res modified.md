@@ -1,0 +1,40 @@
+- [Make Bubbles Pop](https://modrinth.com/mod/gPCdW0Wr) [0.3.0-fabric] by Tschipcraft
+- [FerriteCore](https://modrinth.com/mod/uXXizFIs) [7.0.0] by malte0811
+- [Placeholder API](https://modrinth.com/mod/eXts2L7r) [2.4.1+1.21] by Patbox
+- [Better Combat](https://modrinth.com/mod/5sy6g3kz) [2.0.3+1.21.1] by Daedelus
+- [Nvidium](https://modrinth.com/mod/SfMw2IZN) [0.3.1] by Cortex
+- [Cave Dust](https://modrinth.com/mod/jawg7zT1) [3.0.0] by LizIsTired
+- [Combat Roll](https://modrinth.com/mod/wGKYL7st) [2.0.1+1.21.1] by Daedelus
+- [Mod Menu](https://modrinth.com/mod/mOgUt4GM) [11.0.3] by Prospector, haykam821, TerraformersMC
+- [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) [6.2.8] by Traben
+- [Iris](https://modrinth.com/mod/YL57xq9U) [1.8.0+mc1.21.1] by coderbot, IMS212, Justsnoopy30, FoundationGames
+- [Sodium](https://modrinth.com/mod/AANobbMI) [0.6.0-beta.2+mc1.21.1] by @jellysquid3
+- [Particular](https://modrinth.com/mod/B1CcCd9h) [1.1.1+1.21] by Chai
+- [Sodium Shadowy Path Blocks](https://modrinth.com/mod/EIa1eiMm) [4.0.0-beta.2] by Rynnavinx
+- [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) [0.13.6] by dzwdz, Fourmisain
+- [Indium](https://modrinth.com/mod/Orvt0mRa) [1.0.35+mc1.21] by comp500
+- [Searchables](https://modrinth.com/mod/fuuu3xnx) [1.0.5] by Jaredlll08
+- [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) [1.21-1.6] by MehVahdJukaar
+- [NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C) [1.8.1] by tr7zw
+- [Fabric API](https://modrinth.com/mod/P7dR8mSH) [0.102.0+1.21] by FabricMC
+- [oωo](https://modrinth.com/mod/ccKDOlHs) [0.12.15+1.21] by glisco
+- [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) [3.6.1+1.21-fabric] by isXander
+- [Controlling](https://modrinth.com/mod/xv94TkTM) [18.0.4] by Jaredlll08
+- [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) [1.10.2+1.21] by Hurricaaane (Ha3), Sollace
+- [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) [2.2.6] by Traben
+- [CreativeCore](https://modrinth.com/mod/OsZiaDHq) [2.12.9] by CreativeMD, AriaFreeze
+- [Lithium](https://modrinth.com/mod/gvQqBUqZ) [0.13.1] by JellySquid, 2No2Name
+- [Amplified Nether](https://modrinth.com/mod/wXiGiyGX) [1.2.6] by Stardust Labs
+- [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1.7.1] by tr7zw
+- [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) [1.8.0-beta.4+mc1.21.1] by FlashyReese
+- [Visuality](https://modrinth.com/mod/rI0hvYcd) [0.7.7+1.21] by PinkGoosik
+- [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) [1.3.2+1.21.1] by RK_01
+- [essential-container](https://modrinth.com/mod/k2ZPuTBm) [1.0.0]
+- [Noisium](https://modrinth.com/mod/KuNKN7d2) [2.3.0+mc1.21-1.21.1] by Steveplays28
+- [Nyf's Spiders](https://modrinth.com/mod/dOGM7ccu) [2.3.1] by Nyfaria
+- [Cloth Config v15](https://modrinth.com/mod/9s6osm5g) [15.0.140] by shedaniel
+- [ModernFix](https://modrinth.com/mod/nmDcB62a) [5.19.1+mc1.21] by embeddedt
+- [Player Animator](https://modrinth.com/mod/gedNE4y2) [2.0.0-alpha1+1.21] by KosmX  
+- [AmbientSounds](https://modrinth.com/mod/fM515JnW) [6.0.5] by CreativeMD, AriaFreeze
+- [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) [1.21.1-1.4.6] by Sonic Ether, vlad2305m, Max Henkel, Saint
+- [Continuity](https://modrinth.com/mod/1IjD5062) [3.0.0-beta.5+1.21] by PepperCode1
