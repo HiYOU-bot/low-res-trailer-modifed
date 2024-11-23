@@ -1,3 +1,4 @@
+#Low Res Trailer modified 
 Low Res Trailer modified is a modified version of Low Res Trailer Recreation+ for 1.21, which aims to have better optimization based off Fabulously Optimized by robotkoer.
 
 Yes this modpack will continue to recieve updates as Minecraft updates keep coming out. Same thing goes with mod updates.
