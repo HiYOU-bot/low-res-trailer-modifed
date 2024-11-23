@@ -2,7 +2,6 @@
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs) [7.0.0] by malte0811
 - [Placeholder API](https://modrinth.com/mod/eXts2L7r) [2.4.1+1.21] by Patbox
 - [Better Combat](https://modrinth.com/mod/5sy6g3kz) [2.0.3+1.21.1] by Daedelus
-- [Nvidium](https://modrinth.com/mod/SfMw2IZN) [0.3.1] by Cortex
 - [Cave Dust](https://modrinth.com/mod/jawg7zT1) [3.0.0] by LizIsTired
 - [Combat Roll](https://modrinth.com/mod/wGKYL7st) [2.0.1+1.21.1] by Daedelus
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM) [11.0.3] by Prospector, haykam821, TerraformersMC
