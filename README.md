@@ -6,3 +6,5 @@ Yes this modpack will continue to recieve updates as Minecraft updates keep comi
 If you receive a crash, want to report an issue, or simply have a suggestion please report it to the github page!
 If you are the creator of either of those modpacks and would like this to be taken down you can contact me on Discord 
 @unnamed_user10
+Known bugs
+Not on modrinth
